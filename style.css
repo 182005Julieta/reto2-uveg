@@ -1,0 +1,12 @@
+body {
+    background-color:black;
+    color: white;
+}
+#tabla-empleo {
+  width: 400px;      
+  height: 200px;     
+  margin: 40px auto; 
+  padding: 20px;     
+  background-color: #4a88b4;
+  color: #000;
+}
